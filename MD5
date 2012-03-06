@@ -1,0 +1,9 @@
+276666e41063d04e06c03fe2e620bbc3 *DESCRIPTION
+f42ba89841badf1992c79a5f8e1babd3 *NAMESPACE
+99ef018bcd86526cfab7792c76b82aea *R/corpus.R
+9b2544fc0d8497cd9d7f4531a78a2632 *R/mapper.R
+04280939059badc9604eec7f4fe652de *R/reducer.R
+36a190aa3c4f28020ee3a7752d054c96 *man/DistributedCorpus.Rd
+9d8abe6315ec23455c1f758cd1c902d7 *man/matrix.Rd
+9f49cb4ce07fc6ff9f2257d38bea13b0 *man/revisions.Rd
+7adfd2834690ff2c13b86dea2750de8f *man/tm_map.Rd
