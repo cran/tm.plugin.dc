@@ -1,10 +1,10 @@
-256885aab037474fae9170e5443f9544 *DESCRIPTION
-f42ba89841badf1992c79a5f8e1babd3 *NAMESPACE
-f79a4e563ee347b554540ed13be74adb *R/corpus.R
-51ac9af79e9397f69a8801cb42f0f7c6 *R/mapper.R
-04280939059badc9604eec7f4fe652de *R/reducer.R
+df44fcefa7338455790b08eadbcd4f0e *DESCRIPTION
+040f300f813de6257c38f5acb07f5300 *NAMESPACE
+af7a2c315854ceef960ac9b61ddbe57e *R/corpus.R
+0e91a660b2b5c07f1936cbc46231e9e0 *R/mapper.R
+68b29b54c2d240b16611907bf7035f7e *R/reducer.R
 8fc5e442b10c395d96fb0e8ecd972724 *inst/CITATION
-36a190aa3c4f28020ee3a7752d054c96 *man/DistributedCorpus.Rd
+1cada2a1359412fae39ddd9266e70919 *man/DistributedCorpus.Rd
 9d8abe6315ec23455c1f758cd1c902d7 *man/matrix.Rd
 9f49cb4ce07fc6ff9f2257d38bea13b0 *man/revisions.Rd
 7adfd2834690ff2c13b86dea2750de8f *man/tm_map.Rd
